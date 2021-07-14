@@ -6,13 +6,11 @@
   <ul>
   <li>
    <p> Mọi sự sao chép, sử dụng các nội dung trong trang này đều phải được dẫn nguồn của bài viết.<p>
-  <li>
     <li>
    <p> Mục đích của việc sử dụng các bài viết phải là phi lợi nhuận. <p>
  <li>
-  <li>
     <p> Mọi vấn đề liên quan đến việc sao chép, sử dụng bài viết, cũng như trao đổi chuyên môn xin vui lòng gởi email: vothiluuphuong@gmail.com.
       <li>
-        <ul>
+       
           
-          <p> Xin cảm ơn. <p>
+          <p> Xin chân thành cảm ơn. <p>
