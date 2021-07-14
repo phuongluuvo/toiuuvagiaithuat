@@ -2,7 +2,7 @@
   <div>
 <p>  Trang blog này đăng những bài viết về lý thuyết tối ưu và ứng dụng của nó trong các lĩnh vực, đặc biệt là trong khoa học máy tính.
   Mục tiêu của trang blog là để cung cấp những nội dung về tối ưu hóa và các giải thuật một cách gần gũi đến các bạn sinh viên.
-  Bản quyền của các bài viết trong block này thuộc về Võ Thị Lưu Phương. </p>
+  Bản quyền của các bài viết trong blog này thuộc về Võ Thị Lưu Phương. </p>
 <p>  Cụ thể là: </p>
   <ul>
   <li>
